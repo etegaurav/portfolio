@@ -28,17 +28,7 @@ education:
   - course: B.Tech in Electronics & Telecommunications Engineering
     institution: Biju Patnaik University of Technology
     year: 2008
-  - course: Professional Scrum Master I
-    institution: Scrum.org
-    year: 2019
-  - course: SAP Global Certification in HANA 2.0 (SPS03)
-    institution: SAP S.E.
-    year: 2020
-  - course: Professional Scrum Master II
-    institution: Scrum.org
-    year: 2019
-
-
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
