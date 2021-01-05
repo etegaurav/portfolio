@@ -75,5 +75,13 @@ highlight_name: false
 ---
 
 Resourceful, innovative, and enthusiastic IT manager with over 10 years of experience in project delivery, project management, risk mitigation and project leadership within consumer goods industry. Experienced in handling IT projects starting from initiation till closure phase with highest degree of quality and customer satisfaction. Self-motivated, detail- oriented and focused in linking corporate vision with the delivery of desired results. Ability to work in a rapidly changing environment with problem solving and learning mindset.
+Resourceful, innovative, and enthusiastic IT manager with over 10 years of experience in project delivery, project management, risk mitigation and project leadership within consumer goods industry. Experienced in handling IT projects starting from initiation till closure phase with highest degree of quality and customer satisfaction. Self-motivated, detail- oriented and focused in linking corporate vision with the delivery of desired results. Ability to work in a rapidly changing environment with problem solving and learning mindset.
+*  Global Strategy definition
+*  Project Management
+*  Servant Leadership
+*  Business Intelligence and Data Analytics
+*  Data Virtualization
+*  Application and Solution Lifecycle
+*  Process Automation and loss elimination
 
-{{< icon name="download" pack="fas" >}} Download my {{ "media/resume.pdf" "newtab" >}}resumé{{}}.
+{{< icon name="download" pack="fas" >}} Download my {{"media/resume.pdf" "newtab"}}resumé{{}}.
