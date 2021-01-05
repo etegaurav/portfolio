@@ -74,8 +74,13 @@ email: "ete.gaurav@hotmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Resourceful, innovative, and enthusiastic IT manager with over 10 years of experience in project delivery, project management, risk mitigation and project leadership within consumer goods industry. Experienced in handling IT projects starting from initiation till closure phase with highest degree of quality and customer satisfaction. Self-motivated, detail- oriented and focused in linking corporate vision with the delivery of desired results. Ability to work in a rapidly changing environment with problem solving and learning mindset.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+*  Global Strategy definition
+*  Project Management
+*  Servant Leadership
+*  Business Intelligence and Data Analytics
+*  Data Virtualization
+*  Application and Solution Lifecycle
+*  Process Automation and loss elimination
+{{< icon name="download" pack="fas" >}} Download my {{ "media/resume.pdf" "newtab" >}}resumé{{}}.
