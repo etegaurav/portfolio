@@ -84,4 +84,4 @@ Resourceful, innovative, and enthusiastic IT manager with over 10 years of exper
 *  Application and Solution Lifecycle
 *  Process Automation and loss elimination
 
-{{< icon name="download" pack="fas" >}} Download my {{ "media/resume.pdf" "newtab" }} resumé {{}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
