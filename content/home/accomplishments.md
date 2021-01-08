@@ -13,7 +13,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Courses/Certifications'
+title: 'Courses`&shy;`& Certifications'
 subtitle:
 
 # Date format
@@ -29,7 +29,7 @@ item:
 - certificate_url: https://www.scrum.org/certificates/457531
   date_end: "2019-10-04"
   date_start: "2019-09-04"
-  description: "Validates the fundamental knowledge of the Scrum framework"
+  description: "Validates knowledge of the Scrum framework - Fundamental"
   organization: Scrum.org
   organization_url: https://www.scrum.org
   title: Professional Scrum Master I
@@ -53,7 +53,7 @@ item:
 - certificate_url: https://www.scrum.org/certificates/531203
   date_end: "2020-05-05"
   date_start: "2020-04-01"
-  description: "Validates the advanced level of knowledge of the Scrum framework"
+  description: "Validates knowledge of the Scrum framework - Advanced"
   organization: Scrum.org
   organization_url: https://www.scrum.org
   title: Professional Scrum Master II
@@ -66,4 +66,36 @@ item:
   organization_url: https://www.coursera.org
   title: Machine Learning Foundations
   url: "https://www.coursera.org/learn/ml-foundations"
+- certificate_url: https://www.youracclaim.com/go/WppeocHT
+  date_end: "2020-05-22"
+  date_start: "2020-05-15"
+  description: "Data Science Orientation"
+  organization: Coursera.org
+  organization_url: https://www.coursera.org
+  title: Data Science Orientation
+  url: "https://www.coursera.org/learn/what-is-datascience?"
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/8DW9MWYLLH8B
+  date_end: "2020-05-27"
+  date_start: "2020-05-15"
+  description: "Introduction to Machine Learning"
+  organization: Kaggle.com
+  organization_url: https://www.kaggle.com/learn/overview
+  title: Introduction to Machine Learning
+  url: "https://www.kaggle.com/learn/intro-to-machine-learning"
+- certificate_url: https://www.youracclaim.com/badges/db815f69-0eb3-4509-a563-9b7b181b1384/public_url
+  date_end: "2020-11-23"
+  date_start: "2020-11-01"
+  description: "Validates knowledge of cloud services offered by Microsoft Azure"
+  organization: Microsoft.com
+  organization_url: https://docs.microsoft.com/en-us/learn/
+  title: Microsoft Certified: Azure Fundamentals
+  url: "https://docs.microsoft.com/en-us/learn/certifications/exams/az-900"
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/8DW9MWYLLH8B
+  date_end: "2020-07-16"
+  date_start: "2020-06-01"
+  description: "Machine Learning Algorithms: Regression"
+  organization: Coursera.org
+  organization_url: https://www.coursera.org
+  title: Machine Learning Algorithms
+  url: "https://www.coursera.org/learn/ml-regression"
 ---
