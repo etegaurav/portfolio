@@ -29,11 +29,11 @@ item:
 - certificate_url: https://www.scrum.org/certificates/457531
   date_end: "2019-10-04"
   date_start: "2019-09-04"
-  description: ""
+  description: "Validates the fundamental knowledge of the Scrum framework"
   organization: Scrum.org
   organization_url: https://www.scrum.org
   title: Professional Scrum Master I
-  url: ""
+  url: "https://www.scrum.org/professional-scrum-master-i-certification"
 - certificate_url: https://open.sap.com/verify/xinef-tavyv-nohuz-tefyg-gediv
   date_end: "2019-12-17"
   date_start: "2019-11-06"
@@ -48,6 +48,22 @@ item:
   description: "SAP Certified Application Associate - SAP HANA 2.0 (SPS03)"
   organization: SAP SE
   organization_url: https://www.sap.com/
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  title: 'SAP Global Certification - Application Associate SAP HANA 2.0 (SPS03)'
+  url: "https://training.sap.com/certification/c_hanatec_16-sap-certified-technology-associate---sap-hana-20-sps04-g/"
+- certificate_url: https://www.scrum.org/certificates/531203
+  date_end: "2020-05-05"
+  date_start: "2020-04-01"
+  description: "Validates the advanced level of knowledge of the Scrum framework"
+  organization: Scrum.org
+  organization_url: https://www.scrum.org
+  title: Professional Scrum Master II
+  url: "https://www.scrum.org/professional-scrum-master-ii-certification"
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/7PFN9LFCUV78
+  date_end: "2020-05-20"
+  date_start: "2020-04-01"
+  description: "Machine Learning Foundations:A Case Study Approach"
+  organization: Coursera.org
+  organization_url: https://www.coursera.org
+  title: Machine Learning Foundations
+  url: "https://www.coursera.org/learn/ml-foundations"
 ---
