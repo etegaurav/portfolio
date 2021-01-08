@@ -88,7 +88,7 @@ item:
   description: "Validates knowledge of cloud services offered by Microsoft Azure"
   organization: Microsoft.com
   organization_url:
-  title: Microsoft Certified: Azure Fundamentals
+  title: Microsoft Certified- Azure Fundamentals
   url: "https://docs.microsoft.com/en-us/learn/certifications/exams/az-900"
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/8DW9MWYLLH8B
   date_end: "2020-07-16"
